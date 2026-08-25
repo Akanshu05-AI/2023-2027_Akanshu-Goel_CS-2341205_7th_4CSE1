@@ -1,12 +1,12 @@
 # Summer Internship Submission — Akanshu Goel
 
-**Student:** Akanshu Goel
-**Roll Number:** CS-2341205
-**Program & Semester:** B.Tech CSE, 7th Semester
-**Section:** 4CSE-1
-**Batch:** 2023-2027
-**Organization:** ScaleOn
-**Role:** AI Agent Developer Intern
+**Student:** Akanshu Goel  
+**Roll Number:** CS-2341205  
+**Program & Semester:** B.Tech CSE, 7th Semester  
+**Section:** 4CSE-1  
+**Batch:** 2023-2027  
+**Organization:** ScaleOn  
+**Role:** AI Agent Developer Intern  
 **Duration:** 01 July 2026 – 30 September 2026
 
 ---
@@ -27,13 +27,13 @@
 
 During the internship, I contributed to the following AI-driven projects at ScaleOn:
 
-1. **ScaleProposal AI** — AI-powered multi-agent business proposal generation platform
+1. **ScaleProposal AI** — AI-powered multi-agent business proposal generation platform  
    Repo: https://github.com/Akanshu05-AI/ScaleProposal-AI
 
-2. **ScaleSocial AI** — Enterprise multi-channel social media management suite
+2. **ScaleSocial AI** — Enterprise multi-channel social media management suite  
    Repo: https://github.com/Akanshu05-AI/scalesocial-ai
 
-3. **ScaleOn Study Portal** — Study/learning management portal
+3. **ScaleOn Study Portal** — Study/learning management portal  
    Repo: https://github.com/amangovindrao/ScaleOn_Study_Portal
 
 ---
